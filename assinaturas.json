@@ -1,0 +1,42 @@
+{
+    "jpg": {
+        "header": "ffd8ff",
+        "footer": "ffd9",
+        "max_size": 10485760
+    },
+    "png": {
+        "header": "89504e470d0a1a0a",
+        "footer": "49454e44ae426082",
+        "max_size": 10485760
+    },
+    "pdf": {
+        "header": "255044462d",
+        "footer": "2525454f46",
+        "max_size": 20971520
+    },
+    "office_moderno_ou_zip": {
+        "header": "504b0304",
+        "footer": "",
+        "max_size": 52428800
+    },
+    "office_antigo": {
+        "header": "d0cf11e0a1b11ae1",
+        "footer": "",
+        "max_size": 20971520
+    },
+    "mp4": {
+        "header": "66747970",
+        "footer": "",
+        "max_size": 104857600
+    },
+    "mkv": {
+        "header": "1a45dfa3",
+        "footer": "",
+        "max_size": 104857600
+    },
+    "mft": {
+        "header": "46494c4530",
+        "footer": "",
+        "max_size": 1024
+    }
+}
